@@ -25,7 +25,7 @@ const newUser= {
   
 addData(newUser);
 }
-// // Add new obj to Data Array ( by using push Method)
+// Add new obj to Data Array ( by using push Method)
 function addData(obj){
 data.push(obj);
 updateDOM()
